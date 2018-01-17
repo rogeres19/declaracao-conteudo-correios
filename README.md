@@ -70,6 +70,10 @@ $declaracao = new \Click4Web\DeclaracaoConteudo\DeclaracaoConteudo(
 echo $declaracao->imprimirHtml();
 ```
 
+## Documentação do Código
+
+https://click4web.github.io/declaracao-conteudo-correios/
+
 ## Contribuindo
 
 1. Faça o _fork_ do projeto (<https://github.com/click4web/declaracao-conteudo-correios/fork>)
