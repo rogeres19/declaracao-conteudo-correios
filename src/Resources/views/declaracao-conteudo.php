@@ -2743,7 +2743,7 @@
                 $i = 0;
                 $h = ['y25', 'y27', 'y28', 'y29', 'y2a', 'y2b', 'y2d'];
             ?>
-            <?php foreach($itens->getItens() as $item): ?>
+            <?php foreach ($itens->getItens() as $item) : ?>
             <div class="c x2 <?php echo $h[$i]; ?> w17 h13">
                 <div class="t m0 x16 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"><?php echo $i + 1; ?></div>
             </div>
