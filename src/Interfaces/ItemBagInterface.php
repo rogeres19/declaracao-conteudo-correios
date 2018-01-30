@@ -18,19 +18,26 @@ interface ItemBagInterface
      */
     public function getItens(): array;
 
-    /**
-     * Recupera o valor total
-     *
-     * @return float
-     */
-    public function getValorTotal(): float;
+	/**
+	 * Recupera a quantidade de itens
+	 *
+	 * @return float
+	 */
+	public function getQuantidade(): int;
+
+	/**
+	 * Recupera o valor total
+	 *
+	 * @return float
+	 */
+	public function getValor(): float;
 
     /**
      * Recupera o peso total
      *
      * @return float
      */
-    public function getPesoTotal(): float;
+    public function getPeso(): float;
 
     /**
      * Adiciona um item a lista

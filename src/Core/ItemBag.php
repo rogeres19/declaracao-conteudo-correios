@@ -35,22 +35,23 @@ class ItemBag implements ItemBagInterface
         return $this->itens;
     }
 
-    /**
-     * @inheritdoc
-     */
-    public function getPesoTotal(): float
+
+	/**
+	 * @inheritdoc
+	 */
+    public function getQuantidade(): int
     {
-        $peso = 0;
-        foreach ($this->itens as $item) {
-            $peso += $item->getPeso();
-        }
-        return $peso;
+		$quantidade = 0;
+	    foreach ($this->itens as $item) {
+		    $quantidade += $item->getQuantidade();
+	    }
+	    return $quantidade;
     }
 
     /**
      * @inheritdoc
      */
-    public function getValorTotal(): float
+    public function getValor(): float
     {
         $valor = 0;
         foreach ($this->itens as $item) {
@@ -58,6 +59,18 @@ class ItemBag implements ItemBagInterface
         }
         return $valor;
     }
+
+	/**
+	 * @inheritdoc
+	 */
+	public function getPeso(): float
+	{
+		$peso = 0;
+		foreach ($this->itens as $item) {
+			$peso += $item->getPeso();
+		}
+		return $peso;
+	}
 
     /**
      * @inheritdoc
