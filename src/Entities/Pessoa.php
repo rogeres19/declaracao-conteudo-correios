@@ -7,10 +7,10 @@ use Click4Web\DeclaracaoConteudo\Interfaces\PessoaInterface;
 /**
  * Class Pessoa
  *
- * @package Click4Web\DeclaracaoConteudo
+ * @package    Click4Web\DeclaracaoConteudo
  * @subpackage Entities
- * @author   fontebasso <sfdsilva@fontesoft.com>
- * @license  http://www.opensource.org/licenses/mit-license.html MIT License
+ * @author     fontebasso <sfdsilva@fontesoft.com>
+ * @license    http://www.opensource.org/licenses/mit-license.html MIT License
  */
 class Pessoa extends Entity implements PessoaInterface
 {

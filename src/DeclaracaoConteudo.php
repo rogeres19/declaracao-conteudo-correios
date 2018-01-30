@@ -10,16 +10,15 @@ use Click4Web\DeclaracaoConteudo\Interfaces\PessoaInterface;
  *
  * Declaração de Conteúdo para encomendas enviadas via Correios
  *
- * @package  Click4Web\DeclaracaoConteudo
- * @author   fontebasso <sfdsilva@fontesoft.com>
- * @license  http://www.opensource.org/licenses/mit-license.html MIT License
+ * @package Click4Web\DeclaracaoConteudo
+ * @author  fontebasso <sfdsilva@fontesoft.com>
+ * @license http://www.opensource.org/licenses/mit-license.html MIT License
  */
 class DeclaracaoConteudo extends Controller
 {
     private $remetente;
     private $destinatario;
     private $itens;
-    private $valorTotal;
 
     /**
      * DeclaracaoConteudo constructor.
@@ -27,18 +26,15 @@ class DeclaracaoConteudo extends Controller
      * @param PessoaInterface  $remetente
      * @param PessoaInterface  $destinatario
      * @param ItemBagInterface $itens
-     * @param string|int       $valorTotal
      */
     public function __construct(
         PessoaInterface $remetente,
         PessoaInterface $destinatario,
-        ItemBagInterface $itens,
-        $valorTotal = 0.00
+        ItemBagInterface $itens
     ) {
         $this->remetente = $remetente;
         $this->destinatario = $destinatario;
         $this->itens = $itens;
-        $this->valorTotal = $valorTotal;
     }
 
     /**
@@ -46,11 +42,13 @@ class DeclaracaoConteudo extends Controller
      */
     public function imprimirHtml()
     {
-        return $this->view('declaracao-conteudo-bootstrap', [
+        return $this->view(
+            'declaracao-conteudo',
+            [
             'remetente' => $this->remetente,
             'destinatario' => $this->destinatario,
             'itens' => $this->itens,
-            'valorTotal' => $this->valorTotal
-        ]);
+            ]
+        );
     }
 }

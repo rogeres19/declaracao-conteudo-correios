@@ -7,10 +7,10 @@ use Click4Web\DeclaracaoConteudo\Interfaces\ItemInterface;
 /**
  * Class ItemBag
  *
- * @package  Click4Web\DeclaracaoConteudo
+ * @package    Click4Web\DeclaracaoConteudo
  * @subpackage Core
- * @author   fontebasso <sfdsilva@fontesoft.com>
- * @license  http://www.opensource.org/licenses/mit-license.html MIT License
+ * @author     fontebasso <sfdsilva@fontesoft.com>
+ * @license    http://www.opensource.org/licenses/mit-license.html MIT License
  */
 class ItemBag implements ItemBagInterface
 {
@@ -28,7 +28,7 @@ class ItemBag implements ItemBagInterface
     }
 
     /**
-     * @inheritDoc
+     * @inheritdoc
      */
     public function getItens(): array
     {
@@ -36,7 +36,31 @@ class ItemBag implements ItemBagInterface
     }
 
     /**
-     * @inheritDoc
+     * @inheritdoc
+     */
+    public function getPesoTotal(): float
+    {
+        $peso = 0;
+        foreach ($this->itens as $item) {
+            $peso += $item->getPeso();
+        }
+        return $peso;
+    }
+
+    /**
+     * @inheritdoc
+     */
+    public function getValorTotal(): float
+    {
+        $valor = 0;
+        foreach ($this->itens as $item) {
+            $valor += $item->getValor();
+        }
+        return $valor;
+    }
+
+    /**
+     * @inheritdoc
      */
     public function add(ItemInterface $item): ItemBagInterface
     {

@@ -4,10 +4,10 @@ namespace Click4Web\DeclaracaoConteudo\Core;
 /**
  * Class Entity
  *
- * @package  Click4Web\DeclaracaoConteudo
+ * @package    Click4Web\DeclaracaoConteudo
  * @subpackage Core
- * @author   fontebasso <sfdsilva@fontesoft.com>
- * @license  http://www.opensource.org/licenses/mit-license.html MIT License
+ * @author     fontebasso <sfdsilva@fontesoft.com>
+ * @license    http://www.opensource.org/licenses/mit-license.html MIT License
  */
 class Entity
 {

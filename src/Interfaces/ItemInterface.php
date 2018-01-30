@@ -4,10 +4,10 @@ namespace Click4Web\DeclaracaoConteudo\Interfaces;
 /**
  * Interface ItemInterface
  *
- * @package Click4Web\DeclaracaoConteudo
+ * @package    Click4Web\DeclaracaoConteudo
  * @subpackage Interfaces
- * @author   fontebasso <sfdsilva@fontesoft.com>
- * @license  http://www.opensource.org/licenses/mit-license.html MIT License
+ * @author     fontebasso <sfdsilva@fontesoft.com>
+ * @license    http://www.opensource.org/licenses/mit-license.html MIT License
  */
 interface ItemInterface
 {
@@ -26,9 +26,16 @@ interface ItemInterface
     public function getQuantidade(): int;
 
     /**
-     * Recupera o Peso do Item
+     * Recupera o Peso Total do Item
      *
      * @return float
      */
     public function getPeso(): float;
+
+    /**
+     * Recupera o Valor do Item
+     *
+     * @return float
+     */
+    public function getValor(): float;
 }

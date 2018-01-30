@@ -4,10 +4,10 @@ namespace Click4Web\DeclaracaoConteudo\Interfaces;
 /**
  * Interface PessoaInterface
  *
- * @package Click4Web\DeclaracaoConteudo
+ * @package    Click4Web\DeclaracaoConteudo
  * @subpackage Interfaces
- * @author   fontebasso <sfdsilva@fontesoft.com>
- * @license  http://www.opensource.org/licenses/mit-license.html MIT License
+ * @author     fontebasso <sfdsilva@fontesoft.com>
+ * @license    http://www.opensource.org/licenses/mit-license.html MIT License
  */
 interface PessoaInterface
 {
