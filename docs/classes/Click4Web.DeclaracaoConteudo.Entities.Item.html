@@ -3,7 +3,7 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
     <meta charset="utf-8"/>
-    <title>    API Documentation &raquo; \Click4Web\DeclaracaoConteudo\Entities\Item
+    <title>    Declaração de Conteúdo Correios &raquo; \Click4Web\DeclaracaoConteudo\Entities\Item
 </title>
     <meta name="author" content=""/>
     <meta name="description" content=""/>
@@ -33,7 +33,7 @@
                 <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
                     <span class="icon-bar"></span> <span class="icon-bar"></span>
                     <span class="icon-bar"></span> </a>
-                <a class="brand" href="../index.html">API Documentation</a>
+                <a class="brand" href="../index.html">Declaração de Conteúdo Correios</a>
 
                 <div class="nav-collapse">
                     <ul class="nav">
@@ -132,8 +132,8 @@
     </li>
 
                                                                                                         <li class="method public">
-        <a href="#method_getPeso" title="getPeso :: Recupera o Peso do Item">
-            <span class="description">Recupera o Peso do Item</span><pre>getPeso</pre>
+        <a href="#method_getPeso" title="getPeso :: Recupera o Peso Total do Item">
+            <span class="description">Recupera o Peso Total do Item</span><pre>getPeso</pre>
         </a>
     </li>
 
@@ -144,14 +144,20 @@
     </li>
 
                                                                                                         <li class="method public">
+        <a href="#method_getValor" title="getValor :: Recupera o Valor do Item">
+            <span class="description">Recupera o Valor do Item</span><pre>getValor</pre>
+        </a>
+    </li>
+
+                                                                                                        <li class="method public">
         <a href="#method_setDescricao" title="setDescricao :: Define a Discriminação do Conteúdo">
             <span class="description">Define a Discriminação do Conteúdo</span><pre>setDescricao</pre>
         </a>
     </li>
 
                                                                                                         <li class="method public">
-        <a href="#method_setPeso" title="setPeso :: Define o peso do item descrito">
-            <span class="description">Define o peso do item descrito</span><pre>setPeso</pre>
+        <a href="#method_setPeso" title="setPeso :: Define o peso total do item descrito">
+            <span class="description">Define o peso total do item descrito</span><pre>setPeso</pre>
         </a>
     </li>
 
@@ -161,15 +167,21 @@
         </a>
     </li>
 
+                                                                                                        <li class="method public">
+        <a href="#method_setValor" title="setValor :: Define o valor do item descrito">
+            <span class="description">Define o valor do item descrito</span><pre>setValor</pre>
+        </a>
+    </li>
+
                                                 </ul>
         </li>
         <li class="nav-header protected">» Protected
             <ul>
-                                                                                                                                                                                                                                                                                                        </ul>
+                                                                                                                                                                                                                                                                                                                                                                                </ul>
         </li>
         <li class="nav-header private">» Private
             <ul>
-                                                                                                                                                                                                                                                                                                        </ul>
+                                                                                                                                                                                                                                                                                                                                                                                </ul>
         </li>
         <li class="nav-header">
             <i class="icon-custom icon-constant"></i> Constants
@@ -312,7 +324,7 @@
                         </div>
                                             <a id="method_getPeso"></a>
                         <div class="element clickable method public  method_getPeso" data-toggle="collapse" data-target=".method_getPeso .collapse">
-                            <h2>Recupera o Peso do Item</h2>
+                            <h2>Recupera o Peso Total do Item</h2>
                             <pre>getPeso() : float</pre>
                             <div class="labels">
                                                                                                                                                                                             </div>
@@ -400,6 +412,51 @@
                             </div>
 
                         </div>
+                                            <a id="method_getValor"></a>
+                        <div class="element clickable method public  method_getValor" data-toggle="collapse" data-target=".method_getValor .collapse">
+                            <h2>Recupera o Valor do Item</h2>
+                            <pre>getValor() : float</pre>
+                            <div class="labels">
+                                                                                                                                                                                            </div>
+
+                            
+                            <div class="row collapse">
+                                <div class="detail-description">
+                                    <div class="long_description"></div>
+
+                                    <table class="table">
+                                                                                    <tr>
+                                                <th>
+                                                    inheritDoc
+                                                </th>
+                                                <td>
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                    </td>
+                                            </tr>
+                                                                                    <tr>
+                                                <th>
+                                                    
+                                                </th>
+                                                <td>
+                                                                                                    </td>
+                                            </tr>
+                                                                                    <tr>
+                                                <th>
+                                                    
+                                                </th>
+                                                <td>
+                                                                                                    </td>
+                                            </tr>
+                                                                                                                    </table>
+
+                                    
+                                                                            <h3>Response</h3>
+                                        <code>float</code><p></p>
+                                                                    </div>
+                            </div>
+
+                        </div>
                                             <a id="method_setDescricao"></a>
                         <div class="element clickable method public  method_setDescricao" data-toggle="collapse" data-target=".method_setDescricao .collapse">
                             <h2>Define a Discriminação do Conteúdo</h2>
@@ -429,7 +486,7 @@
                         </div>
                                             <a id="method_setPeso"></a>
                         <div class="element clickable method public  method_setPeso" data-toggle="collapse" data-target=".method_setPeso .collapse">
-                            <h2>Define o peso do item descrito</h2>
+                            <h2>Define o peso total do item descrito</h2>
                             <pre>setPeso(float $peso) : \Click4Web\DeclaracaoConteudo\Entities\Item</pre>
                             <div class="labels">
                                                                                                                                                                                             </div>
@@ -445,7 +502,7 @@
                                                                             <h3>Arguments</h3>
                                                                                     <div class="subelement argument">
                                                 <h4>$peso</h4>
-                                                <code>float</code><p><p>Peso do Item</p></p>
+                                                <code>float</code><p><p>Peso Total do Item</p></p>
                                             </div>
                                                                             
                                                                             <h3>Response</h3>
@@ -473,6 +530,33 @@
                                                                                     <div class="subelement argument">
                                                 <h4>$quantidade</h4>
                                                 <code>integer</code><p><p>Quantidade de Itens</p></p>
+                                            </div>
+                                                                            
+                                                                            <h3>Response</h3>
+                                        <code><a href="../classes/Click4Web.DeclaracaoConteudo.Entities.Item.html">\Click4Web\DeclaracaoConteudo\Entities\Item</a></code><p></p>
+                                                                    </div>
+                            </div>
+
+                        </div>
+                                            <a id="method_setValor"></a>
+                        <div class="element clickable method public  method_setValor" data-toggle="collapse" data-target=".method_setValor .collapse">
+                            <h2>Define o valor do item descrito</h2>
+                            <pre>setValor(float $valor) : \Click4Web\DeclaracaoConteudo\Entities\Item</pre>
+                            <div class="labels">
+                                                                                                                                                                                            </div>
+
+                            
+                            <div class="row collapse">
+                                <div class="detail-description">
+                                    <div class="long_description"></div>
+
+                                    <table class="table">
+                                                                                                                    </table>
+
+                                                                            <h3>Arguments</h3>
+                                                                                    <div class="subelement argument">
+                                                <h4>$valor</h4>
+                                                <code>float</code><p><p>Valor do Item</p></p>
                                             </div>
                                                                             
                                                                             <h3>Response</h3>
@@ -562,6 +646,32 @@
                                                                             </div>
                                 </div>
                             </div>
+                                                    <a id="property_valor"> </a>
+                            <div class="element clickable property  protected property_valor" data-toggle="collapse" data-target=".property_valor .collapse">
+                                <h2>Valor do Item</h2>
+                                <pre>valor : float</pre>
+                                <div class="labels">
+                                                                                                        </div>
+                                <div class="row collapse">
+                                    <div class="detail-description">
+                                        <div class="long_description"></div>
+
+                                        <table class="table">
+                                                                                            <tr>
+                                                    <th>
+                                                        var
+                                                    </th>
+                                                    <td>
+                                                                                                                    <p>Valor do Item</p>
+                                                                                                            </td>
+                                                </tr>
+                                                                                    </table>
+
+                                                                                    <h3>Type(s)</h3>
+                                            <code>float</code>
+                                                                            </div>
+                                </div>
+                            </div>
                                                             </div>
             </div>
             <a id="\Click4Web\DeclaracaoConteudo\Entities\Item"></a>
@@ -582,7 +692,7 @@
             Template is built using <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap 2</a> and icons provided by
             <a href="http://glyphicons.com/">Glyphicons</a>.<br/>
             Documentation is powered by <a href="http://www.phpdoc.org/">phpDocumentor </a> and<br/>
-            generated on Wed, 17 Jan 2018 23:10:40 +0000.<br/>
+            generated on Fri, 09 Feb 2018 21:22:38 +0000.<br/>
     </footer>
     </body>
 </html>

@@ -9,9 +9,9 @@
 [![Latest Unstable Version](https://poser.pugx.org/click4web/declaracao-conteudo-correios/v/unstable)](https://packagist.org/packages/click4web/declaracao-conteudo-correios)
 [![License](https://poser.pugx.org/click4web/declaracao-conteudo-correios/license)](https://packagist.org/packages/click4web/declaracao-conteudo-correios)
 
-## Instalação Beta 2
+## Instalação
 
-`composer require click4web/declaracao-conteudo-correios:v1.0.0-BETA2`
+`composer require click4web/declaracao-conteudo-correios`
 
 ## Exemplo de uso
 
