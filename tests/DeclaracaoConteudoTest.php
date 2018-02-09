@@ -10,7 +10,7 @@ final class DeclaracaoConteudoTest extends TestCase
     public function testImprimirHtml()
     {
         $remetente = new Click4Web\DeclaracaoConteudo\Entities\Pessoa([
-            'nome' => 'Click 4 Web - Marketing',
+            'nome' => 'Click 4 Web',
             'doc' => '12.398.650/0001-16',
             'endereco' => 'Rua Mandaguari, 400 - Vila Curuça',
             'cidade' => 'Santo André',
@@ -30,20 +30,21 @@ final class DeclaracaoConteudoTest extends TestCase
             [
                 'descricao' => 'Livro - 8Ps do Marketing Digital',
                 'quantidade' => 1,
-                'peso' => 0.733
+                'peso' => 0.733,
+                'valor' => 80,
             ],
             [
                 'descricao' => 'Livro - Super Apresentações',
                 'quantidade' => 1,
-                'peso' => 0.397
+                'peso' => 0.397,
+                'valor' => 75,
             ],
         ]);
 
         $declaracao = new \Click4Web\DeclaracaoConteudo\DeclaracaoConteudo(
             $remetente,
             $destinatario,
-            $itens,
-            219.98
+            $itens
         );
         $this->assertEquals(TRUE, is_string($declaracao->imprimirHtml()));
     }

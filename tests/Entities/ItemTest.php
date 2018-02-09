@@ -48,16 +48,32 @@ final class ItemTest extends TestCase
         );
     }
 
+	public function testDefinirERecuperarValor()
+	{
+		$item = new Item();
+
+		$this->assertInstanceOf(
+			Item::class,
+			$item->setValor(80)
+		);
+		$this->assertEquals(
+			80,
+			$item->getValor()
+		);
+	}
+
     public function testDefinirAtributosPorArray()
     {
         $item = new Item([
             'descricao' => 'Livro - 8Ps do Marketing Digital',
             'quantidade' => 1,
             'peso' => 0.733,
+            'valor' => 80,
         ]);
 
         $this->assertEquals('Livro - 8Ps do Marketing Digital', $item->getDescricao());
         $this->assertEquals(1, $item->getQuantidade());
         $this->assertEquals(0.733, $item->getPeso());
+	    $this->assertEquals(80, $item->getValor());
     }
 }

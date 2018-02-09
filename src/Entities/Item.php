@@ -7,10 +7,10 @@ use Click4Web\DeclaracaoConteudo\Interfaces\ItemInterface;
 /**
  * Class Item
  *
- * @package  Click4Web\DeclaracaoConteudo
+ * @package    Click4Web\DeclaracaoConteudo
  * @subpackage Entities
- * @author   fontebasso <sfdsilva@fontesoft.com>
- * @license  http://www.opensource.org/licenses/mit-license.html MIT License
+ * @author     fontebasso <sfdsilva@fontesoft.com>
+ * @license    http://www.opensource.org/licenses/mit-license.html MIT License
  */
 class Item extends Entity implements ItemInterface
 {
@@ -28,6 +28,11 @@ class Item extends Entity implements ItemInterface
      * @var float $peso Peso Total do Item
      */
     protected $peso;
+
+    /**
+     * @var float $valor Valor do Item
+     */
+    protected $valor;
 
     /**
      * Define a Discriminação do Conteúdo
@@ -54,14 +59,26 @@ class Item extends Entity implements ItemInterface
     }
 
     /**
-     * Define o peso do item descrito
+     * Define o peso total do item descrito
      *
-     * @param  float $peso Peso do Item
+     * @param  float $peso Peso Total do Item
      * @return Item
      */
     public function setPeso($peso): Item
     {
         $this->peso = $peso;
+        return $this;
+    }
+
+    /**
+     * Define o valor do item descrito
+     *
+     * @param  float $valor Valor do Item
+     * @return Item
+     */
+    public function setValor($valor): Item
+    {
+        $this->valor = $valor;
         return $this;
     }
 
@@ -87,5 +104,13 @@ class Item extends Entity implements ItemInterface
     public function getPeso(): float
     {
         return $this->peso;
+    }
+
+    /**
+     * @inheritDoc
+     */
+    public function getValor(): float
+    {
+        return $this->valor;
     }
 }
