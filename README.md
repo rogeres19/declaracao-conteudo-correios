@@ -47,12 +47,14 @@ $itens = new \Click4Web\DeclaracaoConteudo\Core\ItemBag([
     [
         'descricao' => 'Livro - 8Ps do Marketing Digital',
         'quantidade' => 1,
-        'peso' => 0.733
+        'peso' => 0.733,
+        'valor' => 80,
     ],
     [
         'descricao' => 'Livro - Super Apresentações',
         'quantidade' => 1,
-        'peso' => 0.397
+        'peso' => 0.397,
+        'valor' => 75,
     ],
 ]);
 ```
@@ -63,8 +65,7 @@ Exibindo a declaração de conteúdo:
 $declaracao = new \Click4Web\DeclaracaoConteudo\DeclaracaoConteudo(
     $remetente,
     $destinatario,
-    $itens,
-    219.98 // Valor Total (R$)
+    $itens
 );
 
 echo $declaracao->imprimirHtml();
