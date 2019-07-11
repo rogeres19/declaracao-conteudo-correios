@@ -19,6 +19,7 @@ class DeclaracaoConteudo extends Controller
     private $remetente;
     private $destinatario;
     private $itens;
+    private $declaracoes;
 
     /**
      * DeclaracaoConteudo constructor.
@@ -27,16 +28,19 @@ class DeclaracaoConteudo extends Controller
      * @param PessoaInterface  $destinatario
      * @param ItemBagInterface $itens
      */
-    public function __construct(
-        PessoaInterface $remetente,
-        PessoaInterface $destinatario,
-        ItemBagInterface $itens
+    public function __construct( array $declaracoes = []
     ) {
+        /* 
         $this->remetente = $remetente;
         $this->destinatario = $destinatario;
-        $this->itens = $itens;
+        $this->itens = $itens; */
+        $this->declaracoes = $declaracoes;
     }
 
+    /* PessoaInterface $remetente,
+        PessoaInterface $destinatario,
+        ItemBagInterface $itens
+ */
     /**
      * Imprimir Declaração de Conteúdo em HTML
      */
@@ -45,9 +49,7 @@ class DeclaracaoConteudo extends Controller
         return $this->view(
             'declaracao-conteudo',
             [
-            'remetente' => $this->remetente,
-            'destinatario' => $this->destinatario,
-            'itens' => $this->itens,
+            'declaracoes' => $this->declaracoes            
             ]
         );
     }
