@@ -2616,317 +2616,320 @@
     </div>
 </div>
 <div id="page-container">
-    <div id="pf1" class="pf w0 h0" data-page-no="1">
-        <div class="pc pc1 w0 h0"><img class="bi x0 y0 w1 h1" alt=""
-                                       src="data:image/png;base64,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"/>
-            <div class="t m0 x1 h2 y1 ff1 fs0 fc0 sc0 ls0 ws0"></div>
-            <div class="t m0 x1 h2 y2 ff1 fs0 fc0 sc0 ls0 ws0"></div>
-            <div class="t m0 x1 h2 y3 ff1 fs0 fc0 sc0 ls0 ws0"></div>
-            <div class="c x2 y4 w2 h3">
-                <div class="t m0 x3 h4 y5 ff2 fs1 fc0 sc0 ls0 ws0">DECLARAÇÃO DE CO<span class="_ _0"></span>NTEÚDO<span
-                            class="_ _0"></span><span class="fs2"> </span></div>
-            </div>
-            <div class="c x4 y6 w3 h5">
-                <div class="t m0 x5 h2 y7 ff1 fs0 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x6 y6 w4 h5">
-                <div class="t m0 x7 h2 y8 ff1 fs0 fc0 sc0 ls0 ws0"></div>
-                <div class="t m0 x5 h2 y9 ff1 fs0 fc0 sc0 ls0 ws0"></div>
-                <div class="t m0 x8 h2 ya ff1 fs0 fc0 sc0 ls0 ws0">CARIM<span class="_ _0"></span>BO DA UNIDADE</div>
-            </div>
-            <div class="c x0 yb w5 h6">
-                <div class="t m0 x9 h7 yc ff2 fs3 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x2 yd w2 h8">
-                <div class="t m0 xa h2 ye ff1 fs0 fc0 sc0 ls0 ws0">CAMPOS EXCL<span class="_ _0"></span>USIVOS DOS
-                    CORREI<span class="_ _0"></span>OS
+    <?php foreach ($declaracoes as $declaracao) : ?>
+
+        <div id="pf1" class="pf w0 h0" data-page-no="1">
+            <div class="pc pc1 w0 h0"><img class="bi x0 y0 w1 h1" alt=""
+                                        src="data:image/png;base64,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"/>
+                <div class="t m0 x1 h2 y1 ff1 fs0 fc0 sc0 ls0 ws0"></div>
+                <div class="t m0 x1 h2 y2 ff1 fs0 fc0 sc0 ls0 ws0"></div>
+                <div class="t m0 x1 h2 y3 ff1 fs0 fc0 sc0 ls0 ws0"></div>
+                <div class="c x2 y4 w2 h3">
+                    <div class="t m0 x3 h4 y5 ff2 fs1 fc0 sc0 ls0 ws0">DECLARAÇÃO DE CO<span class="_ _0"></span>NTEÚDO<span
+                                class="_ _0"></span><span class="fs2"> </span></div>
                 </div>
-            </div>
-            <div class="c x2 yf w6 h9">
-                <div class="t m0 x5 h2 ye ff1 fs0 fc0 sc0 ls0 ws0">UNIDADE DE POS<span class="_ _0"></span>TAGEM</div>
-            </div>
-            <div class="c xb yf w7 h9">
-                <div class="t m0 x5 ha ye ff2 fs0 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c xc yf w8 h9">
-                <div class="t m0 x5 h2 ye ff1 fs0 fc0 sc0 ls0 ws0">NÚMERO DO REGIST<span class="_ _0"></span>RO</div>
-            </div>
-            <div class="c x2 y6 w6 h8">
-                <div class="t m0 x5 h2 ye ff1 fs0 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c xb y6 w7 h8">
-                <div class="t m0 x5 ha ye ff2 fs0 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c xc y6 w8 h8">
-                <div class="t m0 x5 h2 ye ff1 fs0 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x0 y10 w9 hb">
-                <div class="t m0 xd hc y11 ff2 fs4 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c xb y10 wa hb">
-                <div class="t m0 x5 hc y11 ff2 fs4 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c xc y10 wb hb">
-                <div class="t m0 xe hc y11 ff2 fs4 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x2 y12 w6 hd">
-                <div class="t m0 xf hc y13 ff2 fs4 fc0 sc0 ls0 ws0">R E M E T E N T E</div>
-            </div>
-            <div class="c xb y14 w7 he">
-                <div class="t m0 x5 hc y15 ff2 fs4 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c xc y12 wc hd">
-                <div class="t m0 xf hc y13 ff2 fs4 fc0 sc0 ls0 ws0">D E S T I N A T Á R I O</div>
-            </div>
-            <div class="c x2 y16 w6 hd">
-                <div class="t m0 x5 hf y17 ff2 fs3 fc0 sc0 ls0 ws0">NOME: <span class="ff1 fs4"><?php echo $remetente->getNome(); ?></span></div>
-            </div>
-            <div class="c xc y16 wc hd">
-                <div class="t m0 x5 hf y17 ff2 fs3 fc0 sc0 ls0 ws0">NOME: <span class="ff1 fs4"><?php echo $destinatario->getNome(); ?></span></div>
-            </div>
-            <div class="c x2 y18 w6 hd">
-                <div class="t m0 x5 hf y19 ff2 fs3 fc0 sc0 ls0 ws0">ENDEREÇO: <span class="ff1 fs4"><?php echo substr($remetente->getEndereco(), 0, 45); ?></span></div>
-            </div>
-            <div class="c xc y18 wc hd">
-                <div class="t m0 x5 hf y19 ff2 fs3 fc0 sc0 ls0 ws0">ENDEREÇO: <span class="ff1 fs4"><?php echo substr($destinatario->getEndereco(), 0, 45); ?></span></div>
-            </div>
-            <div class="c x2 y1a w6 hd">
-                <div class="t m0 x5 hf y13 ff1 fs4 fc0 sc0 ls0 ws0"><?php echo substr($remetente->getEndereco(), 45); ?></div>
-            </div>
-            <div class="c xc y1a wc hd">
-                <div class="t m0 x5 h10 y1b ff1 fs5 fc0 sc0 ls0 ws0"><?php echo substr($destinatario->getEndereco(), 45); ?></div>
-            </div>
-            <div class="c x2 y1c wd hd">
-                <div class="t m0 x5 hf y19 ff2 fs3 fc0 sc0 ls0 ws0">CIDADE: <span class="ff1 fs4"><?php echo $remetente->getCidade(); ?></span></div>
-            </div>
-            <div class="c x10 y1c we hd">
-                <div class="t m0 x5 h7 y19 ff2 fs3 fc0 sc0 ls0 ws0">UF: <span class="ff1 fs4"><?php echo $remetente->getEstado(); ?></span></div>
-            </div>
-            <div class="c xc y1c wf hd">
-                <div class="t m0 x5 hf y19 ff2 fs3 fc0 sc0 ls0 ws0">CIDADE: <span class="ff1 fs4"><?php echo $destinatario->getCidade(); ?></span></div>
-            </div>
-            <div class="c x11 y1c w10 hd">
-                <div class="t m0 x5 h7 y19 ff2 fs3 fc0 sc0 ls0 ws0">UF: <span class="ff1 fs4"><?php echo $destinatario->getEstado(); ?></span></div>
-            </div>
-            <div class="c x2 y14 w11 hd">
-                <div class="t m0 x5 hf y19 ff2 fs3 fc0 sc0 ls0 ws0">CEP: <span class="ff1 fs4"><?php echo $remetente->getCep(); ?></span></div>
-            </div>
-            <div class="c x12 y14 w12 hd">
-                <div class="t m0 x5 hf y19 ff2 fs3 fc0 sc0 ls0 ws0">CPF/CNPJ: <span class="ff1 fs4"><?php echo $remetente->getDoc(); ?></span></div>
-            </div>
-            <div class="c xc y14 w13 hd">
-                <div class="t m0 x5 hf y19 ff2 fs3 fc0 sc0 ls0 ws0">CEP: <span class="ff1 fs4"><?php echo $destinatario->getCep(); ?></span></div>
-            </div>
-            <div class="c x13 y14 w14 hd">
-                <div class="t m0 x5 hf y19 ff2 fs3 fc0 sc0 ls0 ws0">CPF/CNPJ: <span class="ff1 fs4"><?php echo $destinatario->getDoc(); ?></span></div>
-            </div>
-            <div class="c x0 y1d w15 hb">
-                <div class="t m0 x5 h7 y1e ff2 fs3 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x2 y1f w16 h11">
-                <div class="t m0 x14 hc y20 ff2 fs4 fc0 sc0 ls0 ws0">I D E N T I F I C A Ç Ã O D O S B E N S</div>
-            </div>
-            <div class="c x2 y21 w17 h12">
-                <div class="t m0 x15 h7 y22 ff2 fs3 fc0 sc0 ls0 ws0">ITEM</div>
-                <div class="t m0 x16 h7 y23 ff2 fs3 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x17 y21 w18 h12">
-                <div class="t m0 x18 h7 y24 ff2 fs3 fc0 sc0 ls0 ws0">CONTEÚDO<span class="_ _1"></span></div>
-            </div>
-            <div class="c x19 y21 w19 h12">
-                <div class="t m0 x1a h7 y24 ff2 fs3 fc0 sc0 ls0 ws0">QUANT.</div>
-            </div>
-            <div class="c x4 y21 w1a h12">
-                <div class="t m0 x1b h7 y24 ff2 fs3 fc0 sc0 ls0 ws0">VALOR</div>
-            </div>
-            <?php
-                $i = 0;
-                $h = ['y25', 'y27', 'y28', 'y29', 'y2a', 'y2b', 'y2d'];
-            ?>
-            <?php foreach ($itens->getItens() as $item) : ?>
-            <div class="c x2 <?php echo $h[$i]; ?> w17 h13">
-                <div class="t m0 x16 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"><?php echo $i + 1; ?></div>
-            </div>
-            <div class="c x17 <?php echo $h[$i]; ?> w18 h13">
-                <div class="t m0 x5 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"><?php echo $item->getDescricao(); ?></div>
-            </div>
-            <div class="c x19 <?php echo $h[$i]; ?> w19 h13">
-                <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"><?php echo $item->getQuantidade(); ?></div>
-            </div>
-            <div class="c x4 <?php echo $h[$i]; ?> w1a h13">
-                <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"><?php echo number_format($item->getValor(), 2, ',', ''); ?></div>
-            </div>
-            <?php $i++; ?>
-            <?php endforeach; ?>
-            <div class="c x2 y25 w17 h16">
-                <div class="t m0 x16 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x17 y25 w18 h16">
-                <div class="t m0 x5 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x19 y25 w19 h16">
-                <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x4 y25 w1a h16">
-                <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x2 y27 w17 h16">
-                <div class="t m0 x16 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x17 y27 w18 h16">
-                <div class="t m0 x5 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x19 y27 w19 h16">
-                <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x4 y27 w1a h16">
-                <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x2 y28 w17 h16">
-                <div class="t m0 x16 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x17 y28 w18 h16">
-                <div class="t m0 x5 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x19 y28 w19 h16">
-                <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x4 y28 w1a h16">
-                <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x2 y29 w17 h16">
-                <div class="t m0 x16 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x17 y29 w18 h16">
-                <div class="t m0 x5 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x19 y29 w19 h16">
-                <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x4 y29 w1a h16">
-                <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x2 y2a w17 h16">
-                <div class="t m0 x16 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x17 y2a w18 h16">
-                <div class="t m0 x5 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x19 y2a w19 h16">
-                <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x4 y2a w1a h16">
-                <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x2 y2b w17 h16">
-                <div class="t m0 x16 h14 y2c ff1 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x17 y2b w18 h16">
-                <div class="t m0 x5 h14 y2c ff1 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x19 y2b w19 h16">
-                <div class="t m0 x1c h15 y2c ff2 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x4 y2b w1a h16">
-                <div class="t m0 x1c h15 y2c ff2 fs6 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x2 y2d w1b h16">
-                <div class="t m0 x1d h7 y17 ff2 fs3 fc0 sc0 ls0 ws0">TOTAIS</div>
-            </div>
-            <div class="c x19 y2d w19 h16">
-                <div class="t m0 x1c h15 y2c ff2 fs6 fc0 sc0 ls0 ws0"><?php echo $itens->getQuantidade(); ?></div>
-            </div>
-            <div class="c x4 y2d w1a h16">
-                <div class="t m0 x1c h15 y2c ff2 fs6 fc0 sc0 ls0 ws0"><?php echo number_format($itens->getValor(), 2, ',', ''); ?></div>
-            </div>
-            <div class="c x2 y2e w1b h16">
-                <div class="t m0 x1e h7 y17 ff2 fs3 fc0 sc0 ls0 ws0">PESO TOTAL (kg)<span class="_ _1"></span></div>
-            </div>
-            <div class="c x19 y2e w1c h16">
-                <div class="t m0 x1f h15 y2c ff2 fs6 fc0 sc0 ls0 ws0"><?php echo number_format($itens->getPeso(), 3, ',', ''); ?></div>
-            </div>
-            <div class="c x2 y31 w16 h18">
-                <div class="t m0 x20 hc y32 ff2 fs4 fc0 sc0 ls0 ws0">D E C L A R A Ç Ã O</div>
-            </div>
-            <div class="c x2 y33 w1d h19">
-                <div class="t m0 x5 h10 y34 ff1 fs5 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x21 y33 w1e h19"><div class="t m0 x16 h1a y35 ff1 fs3 fc0 sc0 ls0 ws0"> </div><div class="t m0 x16 h1a y36 ff1 fs3 fc0 sc0 ls0 ws0">Declaro <span class="_ _0"></span>que <span class="_ _0"></span>não <span class="_ _0"></span>me <span class="_ _0"></span>e<span class="_ _0"></span>nquadr<span class="_ _1"></span>o <span class="_ _0"></span>no <span class="_ _2"></span>conceit<span class="_ _1"></span>o <span class="_ _0"></span>de <span class="_ _2"></span>cont<span class="_ _1"></span>ribuinte <span class="_ _0"></span>previsto <span class="_ _0"></span>no <span class="_ _0"></span>art. <span class="_ _0"></span>4º <span class="_ _2"></span>da <span class="_ _0"></span>Lei <span class="_ _0"></span>Complementar <span class="_ _0"></span>nº <span class="_ _2"></span>87/1996,<span class="_ _1"></span> <span class="_ _0"></span>uma <span class="_ _0"></span>vez <span class="_ _0"></span>q<span class="_ _0"></span>ue <span class="_ _0"></span>não </div><div class="t m0 x5 h1a y37 ff1 fs3 fc0 sc0 ls0 ws0">realizo, <span class="_ _1"></span>c<span class="_ _1"></span>om <span class="_ _3"></span>habitual<span class="_ _3"></span>i<span class="_ _0"></span>dade <span class="_ _3"></span>ou <span class="_ _3"></span>em <span class="_ _3"></span>volume<span class="_ _1"></span> <span class="_ _3"></span>que <span class="_ _3"></span>caracterize <span class="_ _3"></span>intu<span class="_ _1"></span>ito <span class="_ _3"></span>comercial, <span class="_ _3"></span>operaçõ<span class="_ _3"></span>e<span class="_ _0"></span>s <span class="_ _3"></span>de <span class="_ _3"></span>circu<span class="_ _3"></span>l<span class="_ _0"></span>ação <span class="_ _3"></span>de <span class="_ _3"></span>mercadoria, <span class="_ _3"></span>ainda <span class="_ _3"></span>q<span class="_ _3"></span>u<span class="_ _0"></span>e <span class="_ _3"></span>se <span class="_ _3"></span>iniciem<span class="_ _3"></span> </div><div class="t m0 x5 h1a y38 ff1 fs3 fc0 sc0 ls0 ws0">no exter<span class="_ _3"></span>i<span class="_ _0"></span>or, ou <span class="_ _3"></span>estou dispensad<span class="_ _3"></span>o da emissão da <span class="_ _3"></span>nota fiscal por<span class="_ _3"></span> força da <span class="_ _3"></span>l<span class="_ _0"></span>egislaç<span class="_ _1"></span>ão tributár<span class="_ _3"></span>ia<span class="_ _0"></span> v<span class="_ _3"></span>i<span class="_ _0"></span>gente, <span class="_ _1"></span>responsab<span class="_ _3"></span>i<span class="_ _0"></span>lizando-me, nos term<span class="_ _3"></span>os da </div><div class="t m0 x5 h1a y39 ff1 fs3 fc0 sc0 ls0 ws0">lei e a quem de<span class="_ _3"></span> <span class="_ _0"></span>dire<span class="_ _3"></span>i<span class="_ _0"></span>to, por info<span class="_ _3"></span>rmações inverídicas. </div><div class="t m0 x16 h1a y3a ff1 fs3 fc0 sc0 ls0 ws0"> </div><div class="t m0 x16 h1a y3b ff1 fs3 fc0 sc0 ls0 ws0"> </div><div class="t m0 x16 h1a y3c ff1 fs3 fc0 sc0 ls0 ws0"> </div><div class="t m0 x16 h1a y3d ff1 fs3 fc0 sc0 ls0 ws0"> </div><div class="t m0 x16 h1a y3e ff1 fs3 fc0 sc0 ls0 ws0"> </div></div>
-            <div class="c x2 y3f w1d h1b">
-                <div class="t m0 x5 hf y40 ff1 fs4 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x21 y3f w1f h1b">
-                <div class="t m0 x5 h1a y41 ff1 fs3 fc0 sc0 ls0 ws0"><?php echo $remetente->getCidade(); ?></div>
-            </div>
-            <div class="c x23 y3f w20 h1b">
-                <div class="t m0 x5 hf y42 ff1 fs4 fc0 sc0 ls0 ws0">,</div>
-            </div>
-            <div class="c x24 y3f w21 h1b">
-                <div class="t m0 x25 h1a y41 ff1 fs3 fc0 sc0 ls0 ws0"><?php echo strftime('%d'); ?></div>
-            </div>
-            <div class="c x26 y3f w22 h1b">
-                <div class="t m0 x8 h1a y41 ff1 fs3 fc0 sc0 ls0 ws0">de</div>
-            </div>
-            <div class="c x27 y3f w23 h1b">
-                <div class="t m0 x1a h1a y41 ff1 fs3 fc0 sc0 ls0 ws0"><?php echo strftime('%B'); ?></div>
-            </div>
-            <div class="c xb y3f w24 h1b">
-                <div class="t m0 x29 h1a y41 ff1 fs3 fc0 sc0 ls0 ws0">de</div>
-            </div>
-            <div class="c x2a y3f w25 h1b">
-                <div class="t m0 x1a h1a y41 ff1 fs3 fc0 sc0 ls0 ws0"><?php echo strftime('%Y'); ?></div>
-            </div>
-            <div class="c x2b y43 w26 h1c">
-                <div class="t m0 x5 hf y44 ff1 fs4 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x2c y3f w27 h1b">
-                <div class="t m0 x5 hf y40 ff1 fs4 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x2 y43 w1d h1d">
-                <div class="t m0 x5 hf y45 ff1 fs4 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x21 y43 w1f h1d">
-                <div class="t m0 x5 hf y45 ff1 fs4 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x23 y43 w20 h1d">
-                <div class="t m0 x5 hf y45 ff1 fs4 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x24 y43 w21 h1d">
-                <div class="t m0 x5 hf y45 ff1 fs4 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x26 y43 w22 h1d">
-                <div class="t m0 x5 hf y45 ff1 fs4 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x27 y43 w23 h1d">
-                <div class="t m0 x5 hf y45 ff1 fs4 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c xb y43 w24 h1d">
-                <div class="t m0 x5 hf y45 ff1 fs4 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x2a y43 w25 h1d">
-                <div class="t m0 x1a hf y45 ff1 fs4 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x2c y43 w27 h1d">
-                <div class="t m0 x21 hf y46 ff1 fs3 fc0 sc0 ls0 ws0">Assinatura do <span class="_ _1"></span>Declarante/<span
-                            class="_ _3"></span>Remetente<span class="fs4"> </span></div>
-            </div>
-            <div class="c x0 y47 w28 hb">
-                <div class="t m0 x5 h1a y1e ff1 fs3 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x2d y47 w29 hb">
-                <div class="t m0 x2e h2 y48 ff1 fs0 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="c x2 y49 w16 h1e">
-                <div class="t m0 x29 h7 y4a ff2 fs3 fc0 sc0 ls0 ws0">OBSERVAÇÃO:</div>
-                <div class="t m0 x29 h1a y4b ff1 fs3 fc0 sc0 ls0 ws0">Constitui cr<span class="_ _3"></span>i<span class="_ _0"></span>me contra<span class="_ _3"></span> <span class="_ _0"></span>a orde<span class="_ _3"></span>m tributária suprimir ou<span class="_ _3"></span> <span class="_ _0"></span>reduz<span class="_ _3"></span>i<span class="_ _0"></span>r tributo, ou contr<span class="_ _3"></span>i<span class="_ _0"></span>buição soc<span class="_ _3"></span>ial <span class="_ _0"></span>e qualquer<span class="_ _3"></span> a<span class="_ _0"></span>cessór<span class="_ _3"></span>i<span class="_ _0"></span>o (Lei 8.137/90<span class="_ _1"></span> A<span class="_ _1"></span>rt. 1º, V). </div>
-            </div>
-            <div class="c x0 y4c w15 h1f">
-                <div class="t m0 x2f h2 y4d ff1 fs0 fc0 sc0 ls0 ws0"></div>
-            </div>
-            <div class="t m0 x1 h10 y4e ff1 fs5 fc0 sc0 ls0 ws0"></div>
+                <div class="c x4 y6 w3 h5">
+                    <div class="t m0 x5 h2 y7 ff1 fs0 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x6 y6 w4 h5">
+                    <div class="t m0 x7 h2 y8 ff1 fs0 fc0 sc0 ls0 ws0"></div>
+                    <div class="t m0 x5 h2 y9 ff1 fs0 fc0 sc0 ls0 ws0"></div>
+                    <div class="t m0 x8 h2 ya ff1 fs0 fc0 sc0 ls0 ws0">CARIM<span class="_ _0"></span>BO DA UNIDADE</div>
+                </div>
+                <div class="c x0 yb w5 h6">
+                    <div class="t m0 x9 h7 yc ff2 fs3 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x2 yd w2 h8">
+                    <div class="t m0 xa h2 ye ff1 fs0 fc0 sc0 ls0 ws0">CAMPOS EXCL<span class="_ _0"></span>USIVOS DOS
+                        CORREI<span class="_ _0"></span>OS
+                    </div>
+                </div>
+                <div class="c x2 yf w6 h9">
+                    <div class="t m0 x5 h2 ye ff1 fs0 fc0 sc0 ls0 ws0">UNIDADE DE POS<span class="_ _0"></span>TAGEM</div>
+                </div>
+                <div class="c xb yf w7 h9">
+                    <div class="t m0 x5 ha ye ff2 fs0 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c xc yf w8 h9">
+                    <div class="t m0 x5 h2 ye ff1 fs0 fc0 sc0 ls0 ws0">NÚMERO DO REGIST<span class="_ _0"></span>RO</div>
+                </div>
+                <div class="c x2 y6 w6 h8">
+                    <div class="t m0 x5 h2 ye ff1 fs0 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c xb y6 w7 h8">
+                    <div class="t m0 x5 ha ye ff2 fs0 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c xc y6 w8 h8">
+                    <div class="t m0 x5 h2 ye ff1 fs0 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x0 y10 w9 hb">
+                    <div class="t m0 xd hc y11 ff2 fs4 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c xb y10 wa hb">
+                    <div class="t m0 x5 hc y11 ff2 fs4 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c xc y10 wb hb">
+                    <div class="t m0 xe hc y11 ff2 fs4 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x2 y12 w6 hd">
+                    <div class="t m0 xf hc y13 ff2 fs4 fc0 sc0 ls0 ws0">R E M E T E N T E</div>
+                </div>
+                <div class="c xb y14 w7 he">
+                    <div class="t m0 x5 hc y15 ff2 fs4 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c xc y12 wc hd">
+                    <div class="t m0 xf hc y13 ff2 fs4 fc0 sc0 ls0 ws0">D E S T I N A T Á R I O</div>
+                </div>
+                <div class="c x2 y16 w6 hd">
+                    <div class="t m0 x5 hf y17 ff2 fs3 fc0 sc0 ls0 ws0">NOME: <span class="ff1 fs4"><?php echo $declaracao['remetente']->getNome(); ?></span></div>
+                </div>
+                <div class="c xc y16 wc hd">
+                    <div class="t m0 x5 hf y17 ff2 fs3 fc0 sc0 ls0 ws0">NOME: <span class="ff1 fs4"><?php echo $declaracao['destinatario']->getNome(); ?></span></div>
+                </div>
+                <div class="c x2 y18 w6 hd">
+                    <div class="t m0 x5 hf y19 ff2 fs3 fc0 sc0 ls0 ws0">ENDEREÇO: <span class="ff1 fs4"><?php echo substr($declaracao['remetente']->getEndereco(), 0, 45); ?></span></div>
+                </div>
+                <div class="c xc y18 wc hd">
+                    <div class="t m0 x5 hf y19 ff2 fs3 fc0 sc0 ls0 ws0">ENDEREÇO: <span class="ff1 fs4"><?php echo substr($declaracao['destinatario']->getEndereco(), 0, 45); ?></span></div>
+                </div>
+                <div class="c x2 y1a w6 hd">
+                    <div class="t m0 x5 hf y13 ff1 fs4 fc0 sc0 ls0 ws0"><?php echo substr($declaracao['remetente']->getEndereco(), 45); ?></div>
+                </div>
+                <div class="c xc y1a wc hd">
+                    <div class="t m0 x5 h10 y1b ff1 fs5 fc0 sc0 ls0 ws0"><?php echo substr($declaracao['destinatario']->getEndereco(), 45); ?></div>
+                </div>
+                <div class="c x2 y1c wd hd">
+                    <div class="t m0 x5 hf y19 ff2 fs3 fc0 sc0 ls0 ws0">CIDADE: <span class="ff1 fs4"><?php echo $declaracao['remetente']->getCidade(); ?></span></div>
+                </div>
+                <div class="c x10 y1c we hd">
+                    <div class="t m0 x5 h7 y19 ff2 fs3 fc0 sc0 ls0 ws0">UF: <span class="ff1 fs4"><?php echo $declaracao['remetente']->getEstado(); ?></span></div>
+                </div>
+                <div class="c xc y1c wf hd">
+                    <div class="t m0 x5 hf y19 ff2 fs3 fc0 sc0 ls0 ws0">CIDADE: <span class="ff1 fs4"><?php echo $declaracao['destinatario']->getCidade(); ?></span></div>
+                </div>
+                <div class="c x11 y1c w10 hd">
+                    <div class="t m0 x5 h7 y19 ff2 fs3 fc0 sc0 ls0 ws0">UF: <span class="ff1 fs4"><?php echo $declaracao['destinatario']->getEstado(); ?></span></div>
+                </div>
+                <div class="c x2 y14 w11 hd">
+                    <div class="t m0 x5 hf y19 ff2 fs3 fc0 sc0 ls0 ws0">CEP: <span class="ff1 fs4"><?php echo $declaracao['remetente']->getCep(); ?></span></div>
+                </div>
+                <div class="c x12 y14 w12 hd">
+                    <div class="t m0 x5 hf y19 ff2 fs3 fc0 sc0 ls0 ws0">CPF/CNPJ: <span class="ff1 fs4"><?php echo $declaracao['remetente']->getDoc(); ?></span></div>
+                </div>
+                <div class="c xc y14 w13 hd">
+                    <div class="t m0 x5 hf y19 ff2 fs3 fc0 sc0 ls0 ws0">CEP: <span class="ff1 fs4"><?php echo $declaracao['destinatario']->getCep(); ?></span></div>
+                </div>
+                <div class="c x13 y14 w14 hd">
+                    <div class="t m0 x5 hf y19 ff2 fs3 fc0 sc0 ls0 ws0">CPF/CNPJ: <span class="ff1 fs4"><?php echo $declaracao['destinatario']->getDoc(); ?></span></div>
+                </div>
+                <div class="c x0 y1d w15 hb">
+                    <div class="t m0 x5 h7 y1e ff2 fs3 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x2 y1f w16 h11">
+                    <div class="t m0 x14 hc y20 ff2 fs4 fc0 sc0 ls0 ws0">I D E N T I F I C A Ç Ã O D O S B E N S</div>
+                </div>
+                <div class="c x2 y21 w17 h12">
+                    <div class="t m0 x15 h7 y22 ff2 fs3 fc0 sc0 ls0 ws0">ITEM</div>
+                    <div class="t m0 x16 h7 y23 ff2 fs3 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x17 y21 w18 h12">
+                    <div class="t m0 x18 h7 y24 ff2 fs3 fc0 sc0 ls0 ws0">CONTEÚDO<span class="_ _1"></span></div>
+                </div>
+                <div class="c x19 y21 w19 h12">
+                    <div class="t m0 x1a h7 y24 ff2 fs3 fc0 sc0 ls0 ws0">QUANT.</div>
+                </div>
+                <div class="c x4 y21 w1a h12">
+                    <div class="t m0 x1b h7 y24 ff2 fs3 fc0 sc0 ls0 ws0">VALOR</div>
+                </div>
+                <?php
+                    $i = 0;
+                    $h = ['y25', 'y27', 'y28', 'y29', 'y2a', 'y2b', 'y2d'];
+                ?>
+                <?php foreach ($declaracao['itens']->getItens() as $item) : ?>
+                <div class="c x2 <?php echo $h[$i]; ?> w17 h13">
+                    <div class="t m0 x16 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"><?php echo $i + 1; ?></div>
+                </div>
+                <div class="c x17 <?php echo $h[$i]; ?> w18 h13">
+                    <div class="t m0 x5 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"><?php echo $item->getDescricao(); ?></div>
+                </div>
+                <div class="c x19 <?php echo $h[$i]; ?> w19 h13">
+                    <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"><?php echo $item->getQuantidade(); ?></div>
+                </div>
+                <div class="c x4 <?php echo $h[$i]; ?> w1a h13">
+                    <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"><?php echo number_format($item->getValor(), 2, ',', ''); ?></div>
+                </div>
+                <?php $i++; ?>
+                <?php endforeach; ?>
+                <div class="c x2 y25 w17 h16">
+                    <div class="t m0 x16 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x17 y25 w18 h16">
+                    <div class="t m0 x5 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x19 y25 w19 h16">
+                    <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x4 y25 w1a h16">
+                    <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x2 y27 w17 h16">
+                    <div class="t m0 x16 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x17 y27 w18 h16">
+                    <div class="t m0 x5 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x19 y27 w19 h16">
+                    <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x4 y27 w1a h16">
+                    <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x2 y28 w17 h16">
+                    <div class="t m0 x16 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x17 y28 w18 h16">
+                    <div class="t m0 x5 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x19 y28 w19 h16">
+                    <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x4 y28 w1a h16">
+                    <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x2 y29 w17 h16">
+                    <div class="t m0 x16 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x17 y29 w18 h16">
+                    <div class="t m0 x5 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x19 y29 w19 h16">
+                    <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x4 y29 w1a h16">
+                    <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x2 y2a w17 h16">
+                    <div class="t m0 x16 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x17 y2a w18 h16">
+                    <div class="t m0 x5 h14 y26 ff1 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x19 y2a w19 h16">
+                    <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x4 y2a w1a h16">
+                    <div class="t m0 x1c h15 y26 ff2 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x2 y2b w17 h16">
+                    <div class="t m0 x16 h14 y2c ff1 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x17 y2b w18 h16">
+                    <div class="t m0 x5 h14 y2c ff1 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x19 y2b w19 h16">
+                    <div class="t m0 x1c h15 y2c ff2 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x4 y2b w1a h16">
+                    <div class="t m0 x1c h15 y2c ff2 fs6 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x2 y2d w1b h16">
+                    <div class="t m0 x1d h7 y17 ff2 fs3 fc0 sc0 ls0 ws0">TOTAIS</div>
+                </div>
+                <div class="c x19 y2d w19 h16">
+                    <div class="t m0 x1c h15 y2c ff2 fs6 fc0 sc0 ls0 ws0"><?php echo $declaracao['itens']->getQuantidade(); ?></div>
+                </div>
+                <div class="c x4 y2d w1a h16">
+                    <div class="t m0 x1c h15 y2c ff2 fs6 fc0 sc0 ls0 ws0"><?php echo number_format($declaracao['itens']->getValor(), 2, ',', ''); ?></div>
+                </div>
+                <div class="c x2 y2e w1b h16">
+                    <div class="t m0 x1e h7 y17 ff2 fs3 fc0 sc0 ls0 ws0">PESO TOTAL (kg)<span class="_ _1"></span></div>
+                </div>
+                <div class="c x19 y2e w1c h16">
+                    <div class="t m0 x1f h15 y2c ff2 fs6 fc0 sc0 ls0 ws0"><?php echo number_format($declaracao['itens']->getPeso(), 3, ',', ''); ?></div>
+                </div>
+                <div class="c x2 y31 w16 h18">
+                    <div class="t m0 x20 hc y32 ff2 fs4 fc0 sc0 ls0 ws0">D E C L A R A Ç Ã O</div>
+                </div>
+                <div class="c x2 y33 w1d h19">
+                    <div class="t m0 x5 h10 y34 ff1 fs5 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x21 y33 w1e h19"><div class="t m0 x16 h1a y35 ff1 fs3 fc0 sc0 ls0 ws0"> </div><div class="t m0 x16 h1a y36 ff1 fs3 fc0 sc0 ls0 ws0">Declaro <span class="_ _0"></span>que <span class="_ _0"></span>não <span class="_ _0"></span>me <span class="_ _0"></span>e<span class="_ _0"></span>nquadr<span class="_ _1"></span>o <span class="_ _0"></span>no <span class="_ _2"></span>conceit<span class="_ _1"></span>o <span class="_ _0"></span>de <span class="_ _2"></span>cont<span class="_ _1"></span>ribuinte <span class="_ _0"></span>previsto <span class="_ _0"></span>no <span class="_ _0"></span>art. <span class="_ _0"></span>4º <span class="_ _2"></span>da <span class="_ _0"></span>Lei <span class="_ _0"></span>Complementar <span class="_ _0"></span>nº <span class="_ _2"></span>87/1996,<span class="_ _1"></span> <span class="_ _0"></span>uma <span class="_ _0"></span>vez <span class="_ _0"></span>q<span class="_ _0"></span>ue <span class="_ _0"></span>não </div><div class="t m0 x5 h1a y37 ff1 fs3 fc0 sc0 ls0 ws0">realizo, <span class="_ _1"></span>c<span class="_ _1"></span>om <span class="_ _3"></span>habitual<span class="_ _3"></span>i<span class="_ _0"></span>dade <span class="_ _3"></span>ou <span class="_ _3"></span>em <span class="_ _3"></span>volume<span class="_ _1"></span> <span class="_ _3"></span>que <span class="_ _3"></span>caracterize <span class="_ _3"></span>intu<span class="_ _1"></span>ito <span class="_ _3"></span>comercial, <span class="_ _3"></span>operaçõ<span class="_ _3"></span>e<span class="_ _0"></span>s <span class="_ _3"></span>de <span class="_ _3"></span>circu<span class="_ _3"></span>l<span class="_ _0"></span>ação <span class="_ _3"></span>de <span class="_ _3"></span>mercadoria, <span class="_ _3"></span>ainda <span class="_ _3"></span>q<span class="_ _3"></span>u<span class="_ _0"></span>e <span class="_ _3"></span>se <span class="_ _3"></span>iniciem<span class="_ _3"></span> </div><div class="t m0 x5 h1a y38 ff1 fs3 fc0 sc0 ls0 ws0">no exter<span class="_ _3"></span>i<span class="_ _0"></span>or, ou <span class="_ _3"></span>estou dispensad<span class="_ _3"></span>o da emissão da <span class="_ _3"></span>nota fiscal por<span class="_ _3"></span> força da <span class="_ _3"></span>l<span class="_ _0"></span>egislaç<span class="_ _1"></span>ão tributár<span class="_ _3"></span>ia<span class="_ _0"></span> v<span class="_ _3"></span>i<span class="_ _0"></span>gente, <span class="_ _1"></span>responsab<span class="_ _3"></span>i<span class="_ _0"></span>lizando-me, nos term<span class="_ _3"></span>os da </div><div class="t m0 x5 h1a y39 ff1 fs3 fc0 sc0 ls0 ws0">lei e a quem de<span class="_ _3"></span> <span class="_ _0"></span>dire<span class="_ _3"></span>i<span class="_ _0"></span>to, por info<span class="_ _3"></span>rmações inverídicas. </div><div class="t m0 x16 h1a y3a ff1 fs3 fc0 sc0 ls0 ws0"> </div><div class="t m0 x16 h1a y3b ff1 fs3 fc0 sc0 ls0 ws0"> </div><div class="t m0 x16 h1a y3c ff1 fs3 fc0 sc0 ls0 ws0"> </div><div class="t m0 x16 h1a y3d ff1 fs3 fc0 sc0 ls0 ws0"> </div><div class="t m0 x16 h1a y3e ff1 fs3 fc0 sc0 ls0 ws0"> </div></div>
+                <div class="c x2 y3f w1d h1b">
+                    <div class="t m0 x5 hf y40 ff1 fs4 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x21 y3f w1f h1b">
+                    <div class="t m0 x5 h1a y41 ff1 fs3 fc0 sc0 ls0 ws0"><?php echo $declaracao['remetente']->getCidade(); ?></div>
+                </div>
+                <div class="c x23 y3f w20 h1b">
+                    <div class="t m0 x5 hf y42 ff1 fs4 fc0 sc0 ls0 ws0">,</div>
+                </div>
+                <div class="c x24 y3f w21 h1b">
+                    <div class="t m0 x25 h1a y41 ff1 fs3 fc0 sc0 ls0 ws0"><?php echo strftime('%d'); ?></div>
+                </div>
+                <div class="c x26 y3f w22 h1b">
+                    <div class="t m0 x8 h1a y41 ff1 fs3 fc0 sc0 ls0 ws0">de</div>
+                </div>
+                <div class="c x27 y3f w23 h1b">
+                    <div class="t m0 x1a h1a y41 ff1 fs3 fc0 sc0 ls0 ws0"><?php echo strftime('%B'); ?></div>
+                </div>
+                <div class="c xb y3f w24 h1b">
+                    <div class="t m0 x29 h1a y41 ff1 fs3 fc0 sc0 ls0 ws0">de</div>
+                </div>
+                <div class="c x2a y3f w25 h1b">
+                    <div class="t m0 x1a h1a y41 ff1 fs3 fc0 sc0 ls0 ws0"><?php echo strftime('%Y'); ?></div>
+                </div>
+                <div class="c x2b y43 w26 h1c">
+                    <div class="t m0 x5 hf y44 ff1 fs4 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x2c y3f w27 h1b">
+                    <div class="t m0 x5 hf y40 ff1 fs4 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x2 y43 w1d h1d">
+                    <div class="t m0 x5 hf y45 ff1 fs4 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x21 y43 w1f h1d">
+                    <div class="t m0 x5 hf y45 ff1 fs4 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x23 y43 w20 h1d">
+                    <div class="t m0 x5 hf y45 ff1 fs4 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x24 y43 w21 h1d">
+                    <div class="t m0 x5 hf y45 ff1 fs4 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x26 y43 w22 h1d">
+                    <div class="t m0 x5 hf y45 ff1 fs4 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x27 y43 w23 h1d">
+                    <div class="t m0 x5 hf y45 ff1 fs4 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c xb y43 w24 h1d">
+                    <div class="t m0 x5 hf y45 ff1 fs4 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x2a y43 w25 h1d">
+                    <div class="t m0 x1a hf y45 ff1 fs4 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x2c y43 w27 h1d">
+                    <div class="t m0 x21 hf y46 ff1 fs3 fc0 sc0 ls0 ws0">Assinatura do <span class="_ _1"></span>Declarante/<span
+                                class="_ _3"></span>Remetente<span class="fs4"> </span></div>
+                </div>
+                <div class="c x0 y47 w28 hb">
+                    <div class="t m0 x5 h1a y1e ff1 fs3 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x2d y47 w29 hb">
+                    <div class="t m0 x2e h2 y48 ff1 fs0 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="c x2 y49 w16 h1e">
+                    <div class="t m0 x29 h7 y4a ff2 fs3 fc0 sc0 ls0 ws0">OBSERVAÇÃO:</div>
+                    <div class="t m0 x29 h1a y4b ff1 fs3 fc0 sc0 ls0 ws0">Constitui cr<span class="_ _3"></span>i<span class="_ _0"></span>me contra<span class="_ _3"></span> <span class="_ _0"></span>a orde<span class="_ _3"></span>m tributária suprimir ou<span class="_ _3"></span> <span class="_ _0"></span>reduz<span class="_ _3"></span>i<span class="_ _0"></span>r tributo, ou contr<span class="_ _3"></span>i<span class="_ _0"></span>buição soc<span class="_ _3"></span>ial <span class="_ _0"></span>e qualquer<span class="_ _3"></span> a<span class="_ _0"></span>cessór<span class="_ _3"></span>i<span class="_ _0"></span>o (Lei 8.137/90<span class="_ _1"></span> A<span class="_ _1"></span>rt. 1º, V). </div>
+                </div>
+                <div class="c x0 y4c w15 h1f">
+                    <div class="t m0 x2f h2 y4d ff1 fs0 fc0 sc0 ls0 ws0"></div>
+                </div>
+                <div class="t m0 x1 h10 y4e ff1 fs5 fc0 sc0 ls0 ws0"></div>
+            </div>
+            <div class="pi" data-data='{"ctm":[1.000000,0.000000,0.000000,1.000000,0.000000,0.000000]}'></div>
         </div>
-        <div class="pi" data-data='{"ctm":[1.000000,0.000000,0.000000,1.000000,0.000000,0.000000]}'></div>
-    </div>
+    <?php endforeach;?>
 </div>
 <div class="loading-indicator">
     <img alt=""
