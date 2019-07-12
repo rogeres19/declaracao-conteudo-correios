@@ -24,6 +24,24 @@
             margin: 0;
             overflow: auto
         }
+        
+        #print{
+            cursor: pointer;
+            position: fixed;
+            z-index: 1;
+            border-style: solid;
+            border-color: white;    
+            font-size: 1em;
+            background-color:#008CBA;
+            color: white;
+            font-weight: bold;
+            padding: 2em;
+            right: 5vw;
+            -webkit-box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
+            -moz-box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
+            box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
+            border-radius: 3em;
+        }
 
         #page-container {
             position: absolute;
@@ -2613,6 +2631,7 @@
 <body>
 <div id="sidebar">
     <div id="outline">
+       <input id='print' type="button" value="Imprimir" onClick="window.print()">
     </div>
 </div>
 <div id="page-container">
