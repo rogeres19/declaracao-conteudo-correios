@@ -25,7 +25,7 @@
             overflow: auto
         }
         
-        #print{
+        .customButtom{
             cursor: pointer;
             position: fixed;
             z-index: 1;
@@ -36,11 +36,17 @@
             color: white;
             font-weight: bold;
             padding: 2em;
-            right: 5vw;
             -webkit-box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
             -moz-box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
             box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
             border-radius: 3em;
+        }
+        #print{            
+            right: 5vw;        
+        }
+
+        #back{            
+            left: 5vw;
         }
 
         #page-container {
@@ -2631,7 +2637,8 @@
 <body>
 <div id="sidebar">
     <div id="outline">
-       <input id='print' type="button" value="Imprimir" onClick="window.print()">
+        <input id='back' class='customButtom' type="button" value="Voltar" onClick="window.history.back()"/>
+        <input id='print' class='customButtom' type="button" value="Imprimir" onClick="window.print()"/>
     </div>
 </div>
 <div id="page-container">
